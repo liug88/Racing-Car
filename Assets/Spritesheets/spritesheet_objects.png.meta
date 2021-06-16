@@ -1,0 +1,1027 @@
+fileFormatVersion: 2
+guid: bcae8e2590729db4eb5b26c32f188b74
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4704343144163902375
+    second: arrow_white.png
+  - first:
+      213: 4384915789480189480
+    second: arrow_yellow.png
+  - first:
+      213: 9030572545219398867
+    second: barrel_blue.png
+  - first:
+      213: -6448103920198464897
+    second: barrel_blue_down.png
+  - first:
+      213: 3431848609683129914
+    second: barrel_red.png
+  - first:
+      213: -1978800324143073191
+    second: barrel_red_down.png
+  - first:
+      213: 7230110000616301025
+    second: barrier_red.png
+  - first:
+      213: 7180083173637284016
+    second: barrier_red_race.png
+  - first:
+      213: -2669899847158980373
+    second: barrier_white.png
+  - first:
+      213: -5503915805599484405
+    second: barrier_white_race.png
+  - first:
+      213: 3722432301275827027
+    second: cone_down.png
+  - first:
+      213: -5850389498053308071
+    second: cone_straight.png
+  - first:
+      213: -1087644331431438086
+    second: light_white.png
+  - first:
+      213: 4641897881003589220
+    second: light_yellow.png
+  - first:
+      213: 5758866016320571855
+    second: lights.png
+  - first:
+      213: -5361559629346268412
+    second: oil.png
+  - first:
+      213: -2641201257942449949
+    second: rock1.png
+  - first:
+      213: 8402021241341889475
+    second: rock2.png
+  - first:
+      213: -1649112314582084927
+    second: rock3.png
+  - first:
+      213: 3934181899143752330
+    second: skidmark_long_1.png
+  - first:
+      213: -261727530360198490
+    second: skidmark_long_2.png
+  - first:
+      213: 5427992355441245110
+    second: skidmark_long_3.png
+  - first:
+      213: 470283541336008086
+    second: skidmark_short_1.png
+  - first:
+      213: -8245169752679479522
+    second: skidmark_short_2.png
+  - first:
+      213: -4085835065367979265
+    second: skidmark_short_3.png
+  - first:
+      213: 6016445063653518568
+    second: tent_blue.png
+  - first:
+      213: 5619420728996133874
+    second: tent_blue_large.png
+  - first:
+      213: 5197573795869556282
+    second: tent_red.png
+  - first:
+      213: -3285385827393204851
+    second: tent_red_large.png
+  - first:
+      213: -1966035354635341551
+    second: tires_red.png
+  - first:
+      213: 1965938334467629984
+    second: tires_red_alt.png
+  - first:
+      213: -3050405086880207891
+    second: tires_white.png
+  - first:
+      213: 8649578430368818240
+    second: tires_white_alt.png
+  - first:
+      213: -1976994635766173653
+    second: tree_large.png
+  - first:
+      213: -7349831758899924383
+    second: tree_small.png
+  - first:
+      213: -362971173625963260
+    second: tribune_empty.png
+  - first:
+      213: -629411935564678185
+    second: tribune_full.png
+  - first:
+      213: -478959782178256916
+    second: tribune_overhang_red.png
+  - first:
+      213: -6019194446989044543
+    second: tribune_overhang_striped.png
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: arrow_white.png
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 34
+        width: 165
+        height: 99
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a30f693a2f294140800000000000000
+      internalID: 4704343144163902375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arrow_yellow.png
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 34
+        width: 165
+        height: 99
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82ed7f1ada95adc30800000000000000
+      internalID: 4384915789480189480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: barrel_blue.png
+      rect:
+        serializedVersion: 2
+        x: 862
+        y: 817
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3dc823442e9035d70800000000000000
+      internalID: 9030572545219398867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: barrel_blue_down.png
+      rect:
+        serializedVersion: 2
+        x: 681
+        y: 18
+        width: 70
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7a44c9e5abb386a0800000000000000
+      internalID: -6448103920198464897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: barrel_red.png
+      rect:
+        serializedVersion: 2
+        x: 802
+        y: 489
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a36c417b02060af20800000000000000
+      internalID: 3431848609683129914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: barrel_red_down.png
+      rect:
+        serializedVersion: 2
+        x: 751
+        y: 12
+        width: 70
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 958360ed693e984e0800000000000000
+      internalID: -1978800324143073191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: barrier_red.png
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 133
+        width: 210
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e1ebb12db2865460800000000000000
+      internalID: 7230110000616301025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: barrier_red_race.png
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 71
+        width: 210
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b0e86eca97c4a360800000000000000
+      internalID: 7180083173637284016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: barrier_white.png
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 133
+        width: 210
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be028381c3c92fad0800000000000000
+      internalID: -2669899847158980373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: barrier_white_race.png
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 9
+        width: 210
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b06b59d5cb92e93b0800000000000000
+      internalID: -5503915805599484405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cone_down.png
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 161
+        width: 46
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35b4cf9a47cb8a330800000000000000
+      internalID: 3722432301275827027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cone_straight.png
+      rect:
+        serializedVersion: 2
+        x: 862
+        y: 717
+        width: 45
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9515bda8fbd3fcea0800000000000000
+      internalID: -5850389498053308071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: light_white.png
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 694
+        width: 98
+        height: 235
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af8df0f3e39e7e0f0800000000000000
+      internalID: -1087644331431438086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: light_yellow.png
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 459
+        width: 98
+        height: 235
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46e7bd867855b6040800000000000000
+      internalID: 4641897881003589220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lights.png
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 141
+        width: 160
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc94bdb412a9bef40800000000000000
+      internalID: 5758866016320571855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oil.png
+      rect:
+        serializedVersion: 2
+        x: 681
+        y: 66
+        width: 109
+        height: 95
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40b9db28ce9e795b0800000000000000
+      internalID: -5361559629346268412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rock1.png
+      rect:
+        serializedVersion: 2
+        x: 790
+        y: 387
+        width: 89
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e086081371985bd0800000000000000
+      internalID: -2641201257942449949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rock2.png
+      rect:
+        serializedVersion: 2
+        x: 790
+        y: 60
+        width: 73
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3cb487d9dc9f99470800000000000000
+      internalID: 8402021241341889475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rock3.png
+      rect:
+        serializedVersion: 2
+        x: 790
+        y: 320
+        width: 87
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c2dc96561d2d19e0800000000000000
+      internalID: -1649112314582084927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skidmark_long_1.png
+      rect:
+        serializedVersion: 2
+        x: 802
+        y: 545
+        width: 60
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8a2c34d795099630800000000000000
+      internalID: 3934181899143752330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skidmark_long_2.png
+      rect:
+        serializedVersion: 2
+        x: 802
+        y: 737
+        width: 60
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6aaa0f4a2382e5cf0800000000000000
+      internalID: -261727530360198490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skidmark_long_3.png
+      rect:
+        serializedVersion: 2
+        x: 790
+        y: 128
+        width: 76
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6bb7c9dd94a145b40800000000000000
+      internalID: 5427992355441245110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skidmark_short_1.png
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 2
+        width: 60
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 695ab01a368c68600800000000000000
+      internalID: 470283541336008086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skidmark_short_2.png
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 2
+        width: 60
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e178eb27bc5439d80800000000000000
+      internalID: -8245169752679479522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skidmark_short_3.png
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 18
+        width: 76
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ffa18edd7a23c47c0800000000000000
+      internalID: -4085835065367979265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tent_blue.png
+      rect:
+        serializedVersion: 2
+        x: 662
+        y: 289
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ec68bda8e4be7350800000000000000
+      internalID: 6016445063653518568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tent_blue_large.png
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 673
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2fbf74b41613cfd40800000000000000
+      internalID: 5619420728996133874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tent_red.png
+      rect:
+        serializedVersion: 2
+        x: 662
+        y: 161
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3efea454dd712840800000000000000
+      internalID: 5197573795869556282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tent_red_large.png
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 417
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8d00282ff6f762d0800000000000000
+      internalID: -3285385827393204851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tires_red.png
+      rect:
+        serializedVersion: 2
+        x: 821
+        y: 4
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 111f91fe24d37b4e0800000000000000
+      internalID: -1966035354635341551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tires_red_alt.png
+      rect:
+        serializedVersion: 2
+        x: 858
+        y: 489
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a3244ccf7a684b10800000000000000
+      internalID: 1965938334467629984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tires_white.png
+      rect:
+        serializedVersion: 2
+        x: 862
+        y: 873
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: debe5773cb8caa5d0800000000000000
+      internalID: -3050405086880207891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tires_white_alt.png
+      rect:
+        serializedVersion: 2
+        x: 862
+        y: 761
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 044a30741c9790870800000000000000
+      internalID: 8649578430368818240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tree_large.png
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 205
+        width: 214
+        height: 212
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b20fd447add4094e0800000000000000
+      internalID: -1976994635766173653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tree_small.png
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 0
+        width: 141
+        height: 141
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 162b2e3d4f6200a90800000000000000
+      internalID: -7349831758899924383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tribune_empty.png
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 195
+        width: 448
+        height: 223
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40d515404a776faf0800000000000000
+      internalID: -362971173625963260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tribune_full.png
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 418
+        width: 448
+        height: 223
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7dbb64bed21e347f0800000000000000
+      internalID: -629411935564678185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tribune_overhang_red.png
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 641
+        width: 448
+        height: 144
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce70191ad946a59f0800000000000000
+      internalID: -478959782178256916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tribune_overhang_striped.png
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 785
+        width: 448
+        height: 144
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c4d631aa86877ca0800000000000000
+      internalID: -6019194446989044543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
